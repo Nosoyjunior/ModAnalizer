@@ -1348,3 +1348,4 @@ Write-Host "  ✨ Analysis complete!" -ForegroundColor Red
 Write-Host ""
 Write-Host "Press any key to exit..." -ForegroundColor DarkGray
 $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
+}
